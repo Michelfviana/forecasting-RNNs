@@ -1,3 +1,5 @@
+# michel Ferreira Viana de Carvalho 202410423
+ 
 # --- Etapa 3: Normalização, Janelamento e Divisão Temporal ---
 # (Executar somente após df_interpolated estar pronto)
 
